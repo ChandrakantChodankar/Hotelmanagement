@@ -1,2 +1,2 @@
 # Hotelmanagement
-using HTML,css and php
+using HTML and php
