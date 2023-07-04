@@ -8,7 +8,7 @@ try {
             echo "<br>Customer ID: " . $info['customer_id'];
             echo "<br>Room No: " . $info['roomno'];
             echo "<br>Customer Name: " . $info['customer_name'];
-            echo "<br>Price " . $info['price'];
+            echo "<br>Price:" . $info['price'];
             echo "<br>";
         }
     } else
