@@ -9,7 +9,7 @@ try {
             echo "<br>Room No: " . $info['roomno'];
             echo "<br>Customer Name: " . $info['customer_name'];
             echo "<br>Price:" . $info['price'];
-            echo "<br>";
+            echo "<br><br>";
         }
     } else
         echo "error";
